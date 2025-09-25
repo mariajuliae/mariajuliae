@@ -1,8 +1,8 @@
-# Olá, eu sou a Maria Julia Elias! 👋
+# Olá, eu sou a Maria Julia! 👋
 
-[cite_start]Profissional com uma sólida bagagem em Marketing, Growth e Gestão de Projetos, agora em transição de carreira para a área de Tecnologia. [cite: 6] Estou cursando **Análise e Desenvolvimento de Sistemas** na PUC-PR para unir minha experiência analítica à construção de soluções de software inovadoras e de alto impacto.
+Profissional com uma sólida bagagem em Marketing, Growth e Gestão de Projetos, agora em transição de carreira para a área de Tecnologia. Estou cursando **Análise e Desenvolvimento de Sistemas** na PUC-PR para unir minha experiência analítica à construção de soluções de software inovadoras e de alto impacto.
 
-Meu objetivo é atuar como estagiária na área de tecnologia, aplicando e aprofundando meus conhecimentos para agregar valor a uma equipe de tecnologia. Sou especialmente interessada em soluções que utilizam **Inteligência Artificial** para resolver problemas complexos.
+Meu objetivo é atuar como estagiária na área, aplicando e aprofundando meus conhecimentos para agregar valor a uma equipe de tecnologia. Sou especialmente interessada em soluções que utilizam **Inteligência Artificial** para resolver problemas complexos.
 
 ---
 
@@ -25,7 +25,6 @@ Meu objetivo é atuar como estagiária na área de tecnologia, aplicando e aprof
 - Análise de Dados e KPIs
 - Gestão de Projetos
 - Programação Orientada a Objetos
-- Arquitetura e Qualidade de Software
 
 ---
 
