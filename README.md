@@ -19,7 +19,7 @@ Meu objetivo é atuar como estagiária na área, aplicando e aprofundando meus c
   <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI">
 </p>
 
-#### ✅ Metodologias & Conceitos
+#### ✅ **Metodologias & Conceitos**
 
 - Metodologias Ágeis (Scrum, Kanban)
 - Análise de Dados e KPIs
