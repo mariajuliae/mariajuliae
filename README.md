@@ -1,6 +1,6 @@
-# Olá, eu sou a Maria Julia! 👋
+# Oii, eu sou a Maria Julia! 👋
 
-Profissional com uma sólida bagagem em Marketing, Growth e Gestão de Projetos, agora em transição de carreira para a área de Tecnologia. Estou cursando **Análise e Desenvolvimento de Sistemas** na PUC-PR para unir minha experiência analítica à construção de soluções de software inovadoras e de alto impacto.
+Profissional com uma sólida bagagem em Marketing, Growth e Gestão de Projetos, agora em transição de carreira para a área de Tecnologia. Estou cursando **Análise e Desenvolvimento de Sistemas** (PUC-PR) para unir minha experiência analítica à construção de soluções de software inovadoras e de alto impacto.
 
 Meu objetivo é atuar como estagiária na área, aplicando e aprofundando meus conhecimentos para agregar valor a uma equipe de tecnologia. Sou especialmente interessada em soluções que utilizam **Inteligência Artificial** para resolver problemas complexos.
 
