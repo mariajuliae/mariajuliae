@@ -1,35 +1,35 @@
-# Oii, eu sou a Maria Julia! 🌻
+### Oii, eu sou a Maria Julia! 👋
 
-Profissional com uma sólida bagagem em Marketing, Growth e Gestão de Projetos, agora em transição de carreira para a área de Tecnologia. Estou cursando **Análise e Desenvolvimento de Sistemas** (PUC-PR) para unir minha experiência analítica à construção de soluções de software inovadoras e de alto impacto.
+Estudante de Análise e Desenvolvimento de Sistemas com foco prático em **Inteligência Artificial Generativa**. 
 
-Meu objetivo é atuar como estagiária na área, aplicando e aprofundando meus conhecimentos para agregar valor a uma equipe de tecnologia. Sou especialmente interessada em soluções que utilizam **Inteligência Artificial** para resolver problemas complexos.
+Minha jornada começou no Marketing e Growth, onde aprendi a analisar dados e focar no usuário. Hoje, minha paixão é usar essa visão de negócio para **construir** soluções de IA que resolvem problemas reais e geram impacto.
+
+Estou ativamente desenvolvendo projetos com **LLMs (Google Gemini)** e explorando o ecossistema do **Google Cloud (Vertex AI)**.
 
 ---
 
-### ✅ Principais Habilidades
+### 🔭 Meus Principais Projetos em IA
 
-#### **Linguagens & Ferramentas**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI">
-</p>
+*(Veja meus repositórios fixados abaixo para mais detalhes!)*
 
-#### ✅ **Metodologias & Conceitos**
+* **Agente de IA para Análise de Risco:** Desenvolvimento de um agente com Google Gemini para análise comportamental e classificação de risco em tempo real.
+* **Agente de IA para Crédito:** Idealização e prototipação de uma plataforma de dados para otimização de crédito usando análise interseccional.
 
-- Metodologias Ágeis (Scrum, Kanban)
-- Análise de Dados e KPIs
-- Gestão de Projetos
-- Programação Orientada a Objetos
+---
+
+### 🛠️ Linguagens & Ferramentas
+
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?logo=google-ai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
 ### 📫 Entre em Contato
-<p>
-  <a href="mailto:mariajuliaaelias@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/maria-julia-elias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-julia-elias)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariajuliaaelias@gmail.com)
