@@ -10,8 +10,6 @@ Estou ativamente desenvolvendo projetos com **LLMs (Google Gemini)** e explorand
 
 ### 🔭 Meus Principais Projetos em IA
 
-*(Veja meus repositórios fixados abaixo para mais detalhes!)*
-
 * **Agente de IA para Análise de Risco:** Desenvolvimento de um agente com Google Gemini para análise comportamental e classificação de risco em tempo real.
 * **Agente de IA para Crédito:** Idealização e prototipação de uma plataforma de dados para otimização de crédito usando análise interseccional.
 
@@ -23,7 +21,6 @@ Estou ativamente desenvolvendo projetos com **LLMs (Google Gemini)** e explorand
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
