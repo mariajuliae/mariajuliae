@@ -49,15 +49,6 @@ Idealização e prototipação de uma solução baseada em dados para otimizaç�
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=radical"/>
-</div>
-
----
-
 ### 📈 Experiência anterior
 
 Antes da transição para tecnologia, atuei com **Marketing e Growth**, onde:
